@@ -4,6 +4,8 @@
 // more!
 // added this comment after updating git
 
+// ok so I think I'll just use VS code instead of git bash
+
 // Get access to the file system module
 const fs = require('fs');
 const myModule = require('./myModule');
