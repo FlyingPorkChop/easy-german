@@ -1,23 +1,23 @@
 [
   {
     "term": "bestellen;to order",
-    "encountered": 25
+    "encountered": 33
   },
   {
     "term": "selbst gemacht;self-made",
-    "encountered": 25
+    "encountered": 31
   },
   {
     "term": "machen;to make",
-    "encountered": 25
+    "encountered": 30
   },
   {
     "term": "die Vermutung;guess",
-    "encountered": 25
+    "encountered": 30
   },
   {
     "term": "das Einzige;the only thing",
-    "encountered": 25
+    "encountered": 30
   },
   {
     "term": "an extra line that I just added",
@@ -25,10 +25,10 @@
   },
   {
     "term": "derp",
-    "encountered": 22
+    "encountered": 27
   },
   {
     "term": "",
-    "encountered": 22
+    "encountered": 31
   }
 ]

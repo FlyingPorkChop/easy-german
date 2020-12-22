@@ -1,14 +1,15 @@
 "use strict";
 
-// Get access to the file system module
-var fs = require('fs');
+var fs = require('fs'); // Get access to the file system module 
 
-var myModule = require('./myModule');
+
+var myModule = require('./myModule'); // Get my written functions
+
 
 var fileName = "eg-ep114VocabFresh.txt"; // Just the name of the file for now, need to make this an input
 // "Sync" doesn't let the next line run until all data is loaded
 
-var data = fs.readFileSync('savedLines.json'); // Read the saved json from your save file
+var data = fs.readFileSync('savedItems.json'); // Read the saved json from your save file
 
 var savedItems = JSON.parse(data); // Prase it into ACTUAL json, from data to javascript object
 
@@ -35,14 +36,27 @@ for (var i = 0; i < readInItems.length; i++) {
 } // Loop through every saved item
 // If the patern is in the read in file, remove that patern and put it at the bottom of 
 // the file with its occurence data
-// Remove multiple line breaks and replace them with only one line break
+
+
+for (var _i = 0; _i < savedItems.length; _i++) {
+  var freshVocabText = fs.readFileSync(fileName).toString();
+  var savedLine = savedItems[_i].term;
+  var lineOccurences = savedItems[_i].encountered;
+
+  if (freshVocabText.includes(savedLine)) {
+    var newValue = freshVocabText.replace(new RegExp("".concat(savedLine), 'g'), "");
+    fs.writeFileSync(fileName, newValue);
+    fs.appendFileSync(fileName, "".concat(savedLine, " --> ").concat(lineOccurences, "\r\n"));
+    console.log('Write done');
+  }
+} // Remove multiple line breaks and replace them with only one line break
 
 
 myModule.removeReplacePaternFromFile(fileName, "[\r\n]+", "\r\n"); // Resave the saved items in the json file to be used next time the app runs
 
 savedItemsData = JSON.stringify(savedItems, null, 2); // Write the lines to the json file
 
-fs.writeFile('savedLines.json', savedItemsData, finished);
+fs.writeFile('savedItems.json', savedItemsData, finished);
 
 function finished(err) {
   console.log('Done writing');

@@ -1,6 +1,3 @@
-bestellen;to order
-selbst gemacht;self-made
-machen;to make
-die Vermutung;guess
-das Einzige;the only thing
-derp
+
+bestellen;to order --> 33
+ --> 31
