@@ -1,3 +1,12 @@
+/*
+
+    Need to fool around in test range with
+    files that have blank lines, and see what happens when
+    I split files with blank lines
+
+    Extra change here
+
+*/
 const fs = require('fs'); // Get access to the file system module 
 const myModule = require('./myModule'); // Get my written functions
 let fileName = "eg-ep114VocabFresh.txt"; // Just the name of the file for now, need to make this an input
@@ -44,11 +53,8 @@ for(let i = 0; i < savedItems.length; i++) {
     }
 }
 
-
-
 // Remove multiple line breaks and replace them with only one line break
 myModule.removeReplacePaternFromFile(fileName, "[\r\n]+", "\r\n");
-
 
 // Resave the saved items in the json file to be used next time the app runs
 savedItemsData = JSON.stringify(savedItems, null, 2);
@@ -57,7 +63,6 @@ fs.writeFile('savedItems.json', savedItemsData, finished);
 function finished(err) {
     console.log('Done writing');
 }
-
 
 
 
