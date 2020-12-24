@@ -1,18 +1,18 @@
 [
   {
     "term": "die Vermutung;guess",
-    "encountered": 2
-  },
-  {
-    "term": "machen;to make",
     "encountered": 3
   },
   {
-    "term": "bestellen;to order",
-    "encountered": 5
+    "term": "machen;to make",
+    "encountered": 6
   },
   {
     "term": "selbst gemacht;self-made",
-    "encountered": 5
+    "encountered": 7
+  },
+  {
+    "term": "bestellen;to order",
+    "encountered": 8
   }
 ]

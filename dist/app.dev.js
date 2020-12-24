@@ -9,14 +9,17 @@
     Extra change here
 
 */
+var myArgs = process.argv.slice(2); // Get an array of arguments from the command line
+
+var newVocabFile = myArgs[0]; // Should be the file path
+
 var fs = require('fs'); // Get access to the file system module 
 
 
 var myModule = require('./myModule'); // Get my written functions
-
-
-var newVocabFile = "eg-ep114VocabFresh.txt"; // Just the name of the file for now, need to make this an input
+// const newVocabFile = "eg-ep114VocabFresh.txt"; // Just the name of the file for now, need to make this an input
 // "Sync" doesn't let the next line run until all data is loaded
+
 
 var data = fs.readFileSync('savedItems.json'); // Read the saved json from your save file
 
@@ -53,37 +56,16 @@ var newVocabText = ""; // Loop through every saved item
 
 for (var _i = 0; _i < savedItems.length; _i++) {
   var savedLine = savedItems[_i].term;
-  var lineOccurences = savedItems[_i].encountered;
+  var lineOccurences = savedItems[_i].encountered; // If the saved item is in the vocabText, then create the newVocabText with
+  // the item included
 
   if (vocabText.includes(savedLine)) {
     newVocabText += "".concat(savedLine, " --> ").concat(lineOccurences, "\r\n");
   }
-}
+} // Write the newly created vocab text to the file that we're working with
 
-fs.writeFileSync(newVocabFile, newVocabText); // Loop through every saved item
-// If the patern is in the read in file, remove that patern and put it at the bottom of 
-// the file with its occurence data
-//for(let i = 0; i < savedItems.length; i++) {
-//    let freshVocabText = fs.readFileSync(newVocabFile).toString();
-//    let savedLine = savedItems[i].term;
-//    let lineOccurences = savedItems[i].encountered;
-//
-//    if(freshVocabText.includes(savedLine)) {
-//
-//        if(lineOccurences > 1) {
-//            let newValue = freshVocabText.replace(new RegExp(`${savedLine}`, 'g'), "");
-//            fs.writeFileSync(newVocabFile, newValue);
-//            fs.appendFileSync(newVocabFile, `${savedLine} --> ${lineOccurences}\r\n`);
-//        } else {
-//            let newValue = freshVocabText.replace(new RegExp(`${savedLine}`, 'g'), "");
-//            fs.writeFileSync(newVocabFile, newValue);
-//            fs.appendFileSync(newVocabFile, `${savedLine} --> Item added \r\n`);
-//        }
-//
-//        console.log('Write done');
-//    }
-//}
-// Remove multiple line breaks and replace them with only one line break
+
+fs.writeFileSync(newVocabFile, newVocabText); // Remove multiple line breaks and replace them with only one line break
 
 myModule.removeReplacePaternFromFile(newVocabFile, "[\r\n]+", "\r\n"); // Resave the saved items in the json file to be used next time the app runs
 
