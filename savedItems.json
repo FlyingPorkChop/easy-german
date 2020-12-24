@@ -1,34 +1,18 @@
 [
   {
-    "term": "bestellen;to order",
-    "encountered": 33
-  },
-  {
-    "term": "selbst gemacht;self-made",
-    "encountered": 31
-  },
-  {
-    "term": "machen;to make",
-    "encountered": 30
-  },
-  {
     "term": "die Vermutung;guess",
-    "encountered": 30
-  },
-  {
-    "term": "das Einzige;the only thing",
-    "encountered": 30
-  },
-  {
-    "term": "an extra line that I just added",
     "encountered": 2
   },
   {
-    "term": "derp",
-    "encountered": 27
+    "term": "machen;to make",
+    "encountered": 3
   },
   {
-    "term": "",
-    "encountered": 31
+    "term": "bestellen;to order",
+    "encountered": 5
+  },
+  {
+    "term": "selbst gemacht;self-made",
+    "encountered": 5
   }
 ]
