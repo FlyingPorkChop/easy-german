@@ -1,0 +1,3 @@
+machen;to make --> 1
+bestellen;to order --> 2
+selbst gemacht;self-made --> 2

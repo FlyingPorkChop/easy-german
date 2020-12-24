@@ -1,10 +1,11 @@
 /*
+    SEARCH FOR THREE !'S TO FIND URGENT COMMENTS
 
     Need to fool around in test range with
     files that have blank lines, and see what happens when
     I split files with blank lines
 
-    Extra change here
+    SHOULD ALSO RENAME FILES THAT HAVE BEEN EDITED!!!
 
 */
 
@@ -24,9 +25,10 @@ let vocabText = vocabData.toString(); // Get the vocab file as one long string w
 let lines = vocabText.split(/[\r\n]+/g); // Split each of those lines into an array, each array element in one line ( or vocab term )
 
 let readInItems = []; // Array to fill up --> will be the array of items (objects) that just got read in
-myModule.storeReadInLinesAsItems(readInItems, lines);
+myModule.storeReadInLinesAsItems(readInItems, lines); // Could just make sure entry isn't blank in here !!!
+myModule.removeItemsWithEmptyTerms(readInItems);
 
-// Loop through the items made from the NEWLY ready in file
+// Loop through the items made from the NEWLY read in file
 // If it's already saved, just increment the save
 // If it's not saved, add it to saved
 for(let i = 0; i < readInItems.length; i++) {
@@ -62,6 +64,8 @@ fs.writeFileSync(newVocabFile, newVocabText);
 
 // Remove multiple line breaks and replace them with only one line break
 myModule.removeReplacePaternFromFile(newVocabFile, "[\r\n]+", "\r\n");
+
+// myModule.removeItemsWithEmptyTerms(savedItems);
 
 // Resave the saved items in the json file to be used next time the app runs
 savedItemsData = JSON.stringify(savedItems, null, 2);

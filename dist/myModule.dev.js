@@ -56,10 +56,21 @@ function storeReadInLinesAsItems(readInItems, lines) {
   }
 }
 
+function removeItemsWithEmptyTerms(Items) {
+  for (var i = 0; i < Items.length; i++) {
+    var item = Items[i];
+
+    if (item.term == "") {
+      Items.splice(i, 1);
+    }
+  }
+}
+
 module.exports = {
   getRegex: getRegex,
   removeReplacePaternFromFile: removeReplacePaternFromFile,
   isAlreadySaved: isAlreadySaved,
   getItemWithTerm: getItemWithTerm,
-  storeReadInLinesAsItems: storeReadInLinesAsItems
+  storeReadInLinesAsItems: storeReadInLinesAsItems,
+  removeItemsWithEmptyTerms: removeItemsWithEmptyTerms
 };

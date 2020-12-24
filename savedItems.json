@@ -1,18 +1,1926 @@
 [
   {
-    "term": "die Vermutung;guess",
-    "encountered": 3
+    "term": "überrascht sein;to be surprised",
+    "encountered": 1
   },
   {
-    "term": "machen;to make",
-    "encountered": 6
+    "term": "an etw. arbeiten;to work on sth.",
+    "encountered": 1
   },
   {
-    "term": "selbst gemacht;self-made",
-    "encountered": 7
+    "term": "die Tagesordnung;agenda",
+    "encountered": 1
+  },
+  {
+    "term": "der Verein;association",
+    "encountered": 1
+  },
+  {
+    "term": "die Versammlung;meeting",
+    "encountered": 1
+  },
+  {
+    "term": "bei etw. dabei sein;to be part of sth.",
+    "encountered": 1
+  },
+  {
+    "term": "gründen;to found",
+    "encountered": 1
+  },
+  {
+    "term": "interkulturell;intercultural",
+    "encountered": 1
+  },
+  {
+    "term": "um etw. gehen;to be about sth.",
+    "encountered": 1
+  },
+  {
+    "term": "sich treffen;to meet",
+    "encountered": 1
+  },
+  {
+    "term": "ein Bier trinken;to drink a beer",
+    "encountered": 1
+  },
+  {
+    "term": "funktionieren;to work",
+    "encountered": 1
+  },
+  {
+    "term": "quatschen;to chat",
+    "encountered": 1
+  },
+  {
+    "term": "nachfragen;to ask",
+    "encountered": 1
+  },
+  {
+    "term": "etw. aufschieben;to postpone sth.",
+    "encountered": 1
+  },
+  {
+    "term": "sich mit etw. auskennen;to be familiar with sth.",
+    "encountered": 1
+  },
+  {
+    "term": "etw. beitragen;to contribute sth.",
+    "encountered": 1
+  },
+  {
+    "term": "das Auto;car",
+    "encountered": 1
+  },
+  {
+    "term": "etw. besitzen;to own sth.",
+    "encountered": 1
+  },
+  {
+    "term": "der Führerschein;driver's license",
+    "encountered": 1
+  },
+  {
+    "term": "das Motorrad;motorcycle",
+    "encountered": 1
+  },
+  {
+    "term": "Das gibt's nicht.;No way.",
+    "encountered": 1
+  },
+  {
+    "term": "das Alter;age",
+    "encountered": 1
+  },
+  {
+    "term": "fahren;to drive",
+    "encountered": 1
+  },
+  {
+    "term": "der Sicherheitskurs;safety training course",
+    "encountered": 1
+  },
+  {
+    "term": "zu ... gehören;to belong to ...",
+    "encountered": 1
+  },
+  {
+    "term": "denken;to think",
+    "encountered": 1
+  },
+  {
+    "term": "im Durchschnitt;on average",
+    "encountered": 1
+  },
+  {
+    "term": "besitzen;to own",
+    "encountered": 1
+  },
+  {
+    "term": "zusammen;together",
+    "encountered": 1
+  },
+  {
+    "term": "Fahrrad fahren;to ride a bike",
+    "encountered": 1
+  },
+  {
+    "term": "unterschiedlich gelagert sein;to vary",
+    "encountered": 1
+  },
+  {
+    "term": "verständlich;understandable",
+    "encountered": 1
+  },
+  {
+    "term": "um etw. herumkommen;to get around sth.",
+    "encountered": 1
+  },
+  {
+    "term": "die Strecke;distance",
+    "encountered": 1
+  },
+  {
+    "term": "zurücklegen;to cover",
+    "encountered": 1
+  },
+  {
+    "term": "auf etw. ankommen;to depend on sth.",
+    "encountered": 1
+  },
+  {
+    "term": "üblich sein;to be usual",
+    "encountered": 1
+  },
+  {
+    "term": "der Schüleraustausch;student exchange",
+    "encountered": 1
+  },
+  {
+    "term": "erlauben;to allow",
+    "encountered": 1
+  },
+  {
+    "term": "einen Unfall bauen;to cause an accident",
+    "encountered": 1
+  },
+  {
+    "term": "dauern;to take",
+    "encountered": 1
+  },
+  {
+    "term": "schwer;hard",
+    "encountered": 1
+  },
+  {
+    "term": "recherchieren;to research",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. umfahren;to knock sb. down",
+    "encountered": 1
+  },
+  {
+    "term": "vereinfachen;to simplify",
+    "encountered": 1
+  },
+  {
+    "term": "das Vorurteil;prejudice",
+    "encountered": 1
+  },
+  {
+    "term": "die Regel;rule",
+    "encountered": 1
+  },
+  {
+    "term": "die Straßenverkehrsordnung;road traffic regulations",
+    "encountered": 1
+  },
+  {
+    "term": "kosten;to cost",
+    "encountered": 1
+  },
+  {
+    "term": "etw. in Erinnerung haben;to recall sth.",
+    "encountered": 1
+  },
+  {
+    "term": "durchfallen;to fail",
+    "encountered": 1
+  },
+  {
+    "term": "unüblich;unusual",
+    "encountered": 1
+  },
+  {
+    "term": "etw. erzählen;to tell sth.",
+    "encountered": 1
+  },
+  {
+    "term": "auf dem Land;in the countryside",
+    "encountered": 1
+  },
+  {
+    "term": "die Gasteltern;host parents",
+    "encountered": 1
+  },
+  {
+    "term": "der Bauernhof;farm",
+    "encountered": 1
+  },
+  {
+    "term": "die Regelung;regulation",
+    "encountered": 1
+  },
+  {
+    "term": "die Fahrschule;driving school",
+    "encountered": 1
+  },
+  {
+    "term": "der Prüfer;examiner",
+    "encountered": 1
+  },
+  {
+    "term": "geradeaus;straight ahead",
+    "encountered": 1
+  },
+  {
+    "term": "das Schild;sign",
+    "encountered": 1
+  },
+  {
+    "term": "Anlieger frei;residents only",
+    "encountered": 1
+  },
+  {
+    "term": "in etw. reinfahren;to drive into sth.",
+    "encountered": 1
+  },
+  {
+    "term": "etw. auswendig lernen;to memorize sth.",
+    "encountered": 1
+  },
+  {
+    "term": "füllen;to fill",
+    "encountered": 1
+  },
+  {
+    "term": "ausleihen;to rent",
+    "encountered": 1
+  },
+  {
+    "term": "auf etw. gucken;to look at sth.",
+    "encountered": 1
+  },
+  {
+    "term": "das Spiegelei;fried egg",
+    "encountered": 1
+  },
+  {
+    "term": "Vorfahrt haben;to have right of way",
+    "encountered": 1
+  },
+  {
+    "term": "rechts vor links;priority to the right",
+    "encountered": 1
+  },
+  {
+    "term": "verwirrend;confusing",
+    "encountered": 1
+  },
+  {
+    "term": "zusammenkommen;to come together",
+    "encountered": 1
+  },
+  {
+    "term": "die Kreuzung;intersection",
+    "encountered": 1
+  },
+  {
+    "term": "ankommen;to arrive",
+    "encountered": 1
+  },
+  {
+    "term": "auf etw. achten;to pay attention to sth.",
+    "encountered": 1
+  },
+  {
+    "term": "kommunizieren;to communicate",
+    "encountered": 1
+  },
+  {
+    "term": "der Unfall;accident",
+    "encountered": 1
+  },
+  {
+    "term": "schuld sein;to be to blame",
+    "encountered": 1
+  },
+  {
+    "term": "streng;strict",
+    "encountered": 1
+  },
+  {
+    "term": "sich auf etw. verlassen;to rely on sth.",
+    "encountered": 1
+  },
+  {
+    "term": "geregelt;regulated",
+    "encountered": 1
+  },
+  {
+    "term": "entscheiden;to decide",
+    "encountered": 1
+  },
+  {
+    "term": "sich bewegen;to move",
+    "encountered": 1
+  },
+  {
+    "term": "im Ausland;abroad",
+    "encountered": 1
+  },
+  {
+    "term": "Auto fahren;to drive a car",
+    "encountered": 1
+  },
+  {
+    "term": "leihen;to rent",
+    "encountered": 1
+  },
+  {
+    "term": "entdecken;to discover",
+    "encountered": 1
+  },
+  {
+    "term": "die Frage;question",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. sponsern;to sponsor sb.",
+    "encountered": 1
+  },
+  {
+    "term": "die Suchmaschine;search engine",
+    "encountered": 1
+  },
+  {
+    "term": "die Firma;company",
+    "encountered": 1
+  },
+  {
+    "term": "etw. buchen;to book sth.",
+    "encountered": 1
+  },
+  {
+    "term": "eine Frage haben;to have a question",
+    "encountered": 1
+  },
+  {
+    "term": "der Urlaub;vacation",
+    "encountered": 1
+  },
+  {
+    "term": "die Weltreise;world trip",
+    "encountered": 1
+  },
+  {
+    "term": "brauchen;to need",
+    "encountered": 1
+  },
+  {
+    "term": "der (Auto)Vermieter;car rental company",
+    "encountered": 1
+  },
+  {
+    "term": "anerkennen;to acknowledge",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. anhalten;to pull sb. over",
+    "encountered": 1
+  },
+  {
+    "term": "akzeptieren;to accept",
+    "encountered": 1
+  },
+  {
+    "term": "das Erlebnis;experience",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. vorwarnen;to warn sb.",
+    "encountered": 1
+  },
+  {
+    "term": "stressig;stressful",
+    "encountered": 1
+  },
+  {
+    "term": "links fahren;to drive on the left",
+    "encountered": 1
+  },
+  {
+    "term": "sich umgewöhnen;to adapt",
+    "encountered": 1
+  },
+  {
+    "term": "schaffen;to manage",
+    "encountered": 1
+  },
+  {
+    "term": "die Spur;lane",
+    "encountered": 1
+  },
+  {
+    "term": "voneinander getrennt;separated from one another",
+    "encountered": 1
+  },
+  {
+    "term": "abbiegen;to turn",
+    "encountered": 1
+  },
+  {
+    "term": "umdrehen;to turn around",
+    "encountered": 1
+  },
+  {
+    "term": "jdm. entgegenkommen;to face towards sb.",
+    "encountered": 1
+  },
+  {
+    "term": "der Kreisverkehr;roundabout",
+    "encountered": 1
+  },
+  {
+    "term": "um etw. herum gehen;to go around sth.",
+    "encountered": 1
+  },
+  {
+    "term": "wechseln;to change",
+    "encountered": 1
+  },
+  {
+    "term": "die Trennung;separation",
+    "encountered": 1
+  },
+  {
+    "term": "durchfahren;to drive through",
+    "encountered": 1
+  },
+  {
+    "term": "die Überraschung;surprise",
+    "encountered": 1
+  },
+  {
+    "term": "feststellen;to realize",
+    "encountered": 1
+  },
+  {
+    "term": "die Autobahn;German highway",
+    "encountered": 1
+  },
+  {
+    "term": "die Geschwindigkeitsbegrenzung;speed limit",
+    "encountered": 1
+  },
+  {
+    "term": "im Fluss;flowing",
+    "encountered": 1
+  },
+  {
+    "term": "verspüren;to feel",
+    "encountered": 1
+  },
+  {
+    "term": "an jdm. vorbeifahren;to drive past sb.",
+    "encountered": 1
+  },
+  {
+    "term": "gefährlich;dangerous",
+    "encountered": 1
+  },
+  {
+    "term": "sich umgucken;to look around",
+    "encountered": 1
+  },
+  {
+    "term": "die Mitte;middle",
+    "encountered": 1
+  },
+  {
+    "term": "passieren;to happen",
+    "encountered": 1
+  },
+  {
+    "term": "vorbeiziehen;to pass by",
+    "encountered": 1
+  },
+  {
+    "term": "der Vergleich;comparison",
+    "encountered": 1
+  },
+  {
+    "term": "langsam;slow",
+    "encountered": 1
+  },
+  {
+    "term": "tuckern (ugs.);to chug along (colloq.)",
+    "encountered": 1
+  },
+  {
+    "term": "die Vokabel;word",
+    "encountered": 1
+  },
+  {
+    "term": "etw. betonen;to emphasize sth.",
+    "encountered": 1
+  },
+  {
+    "term": "empfehlen;to recommend",
+    "encountered": 1
+  },
+  {
+    "term": "selten;rarely",
+    "encountered": 1
+  },
+  {
+    "term": "vorkommen;to happen",
+    "encountered": 1
+  },
+  {
+    "term": "zusammen fahren;to drive together",
+    "encountered": 1
+  },
+  {
+    "term": "verlinken;to link",
+    "encountered": 1
+  },
+  {
+    "term": "sammeln;to collect",
+    "encountered": 1
+  },
+  {
+    "term": "der Tacho;speedometer",
+    "encountered": 1
+  },
+  {
+    "term": "die Geschwindigkeit;speed",
+    "encountered": 1
+  },
+  {
+    "term": "anzeigen;to display",
+    "encountered": 1
+  },
+  {
+    "term": "schreien;to scream",
+    "encountered": 1
+  },
+  {
+    "term": "aufhören;to stop",
+    "encountered": 1
+  },
+  {
+    "term": "der Leichtsinn;carelessness",
+    "encountered": 1
+  },
+  {
+    "term": "verzerren;to distort",
+    "encountered": 1
+  },
+  {
+    "term": "debattieren;to debate",
+    "encountered": 1
+  },
+  {
+    "term": "der Unterschied;difference",
+    "encountered": 1
+  },
+  {
+    "term": "die Gangschaltung;gear shift",
+    "encountered": 1
+  },
+  {
+    "term": "verstehen;to understand",
+    "encountered": 1
+  },
+  {
+    "term": "die Spielerei;gimmick",
+    "encountered": 1
+  },
+  {
+    "term": "der Stolz;pride",
+    "encountered": 1
+  },
+  {
+    "term": "umweltschonend;eco-friendly",
+    "encountered": 1
+  },
+  {
+    "term": "schalten;to shift",
+    "encountered": 1
+  },
+  {
+    "term": "etw. halten;to hold sth.",
+    "encountered": 1
+  },
+  {
+    "term": "nennen;to call",
+    "encountered": 1
+  },
+  {
+    "term": "argumentieren;to argue",
+    "encountered": 1
+  },
+  {
+    "term": "der Zug;train",
+    "encountered": 1
+  },
+  {
+    "term": "die Zukunft;future",
+    "encountered": 1
+  },
+  {
+    "term": "etw. drücken;to press sth.",
+    "encountered": 1
+  },
+  {
+    "term": "bereit sein;to be ready",
+    "encountered": 1
+  },
+  {
+    "term": "geboren sein;to be born",
+    "encountered": 1
+  },
+  {
+    "term": "geblitzt werden;to be zapped",
+    "encountered": 1
+  },
+  {
+    "term": "das Knöllchen (ugs.);ticket (colloq.)",
+    "encountered": 1
+  },
+  {
+    "term": "umgangssprachlich;colloquial",
+    "encountered": 1
+  },
+  {
+    "term": "der Strafzettel;ticket",
+    "encountered": 1
+  },
+  {
+    "term": "unfallfrei;accident-free",
+    "encountered": 1
+  },
+  {
+    "term": "stimmen;to be right",
+    "encountered": 1
+  },
+  {
+    "term": "die Geburt;birth",
+    "encountered": 1
+  },
+  {
+    "term": "aufbewahren;to keep",
+    "encountered": 1
+  },
+  {
+    "term": "etw. einrahmen;to frame sth.",
+    "encountered": 1
+  },
+  {
+    "term": "sich einloggen;to log in",
+    "encountered": 1
+  },
+  {
+    "term": "fortschrittlich;modern",
+    "encountered": 1
+  },
+  {
+    "term": "suchen;to search",
+    "encountered": 1
+  },
+  {
+    "term": "speichern;to save",
+    "encountered": 1
+  },
+  {
+    "term": "etw. eingeben;to enter sth.",
+    "encountered": 1
+  },
+  {
+    "term": "der Mietwagen;rental car",
+    "encountered": 1
+  },
+  {
+    "term": "aufgeregt sein;to be excited",
+    "encountered": 1
+  },
+  {
+    "term": "sich unterhalten;to have a talk",
+    "encountered": 1
+  },
+  {
+    "term": "merken;to notice",
+    "encountered": 1
+  },
+  {
+    "term": "die Baustelle;construction site",
+    "encountered": 1
+  },
+  {
+    "term": "etw. übersehen;to miss sth.",
+    "encountered": 1
+  },
+  {
+    "term": "bekommen;to get",
+    "encountered": 1
+  },
+  {
+    "term": "die Behörde;authority",
+    "encountered": 1
+  },
+  {
+    "term": "eine Regel brechen;to break a rule",
+    "encountered": 1
+  },
+  {
+    "term": "einen Unfall verursachen;to cause an accident",
+    "encountered": 1
+  },
+  {
+    "term": "betrunken;drunk",
+    "encountered": 1
+  },
+  {
+    "term": "eine Kartei führen;to keep a file",
+    "encountered": 1
+  },
+  {
+    "term": "entziehen;to take away",
+    "encountered": 1
+  },
+  {
+    "term": "besprechen;to discuss",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. einladen;to invite sb.",
+    "encountered": 1
+  },
+  {
+    "term": "Begeisterung für etw. zeigen;to show enthusiasm for sth.",
+    "encountered": 1
+  },
+  {
+    "term": "das Fahrrad;bike",
+    "encountered": 1
+  },
+  {
+    "term": "über Rot fahren;to run a red light",
+    "encountered": 1
+  },
+  {
+    "term": "zukünftig;future",
+    "encountered": 1
+  },
+  {
+    "term": "sich auf etw. auswirken;to have an impact on sth.",
+    "encountered": 1
+  },
+  {
+    "term": "etw. handhaben;to handle sth.",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. interessieren;to interest sb.",
+    "encountered": 1
+  },
+  {
+    "term": "das Geheimnis;secret",
+    "encountered": 1
+  },
+  {
+    "term": "kriegen;to receive",
+    "encountered": 1
+  },
+  {
+    "term": "das Lied;song",
+    "encountered": 1
+  },
+  {
+    "term": "jdm. etw. vorspielen;to play sth. for sb.",
+    "encountered": 1
+  },
+  {
+    "term": "die Sendung;show",
+    "encountered": 1
+  },
+  {
+    "term": "sich etw. anhören;to listen to sth.",
+    "encountered": 1
+  },
+  {
+    "term": "transportieren;to transport",
+    "encountered": 1
+  },
+  {
+    "term": "regnen;to rain",
+    "encountered": 1
+  },
+  {
+    "term": "das Weihnachten;christmas",
+    "encountered": 1
+  },
+  {
+    "term": "überfüllt;crowded",
+    "encountered": 1
+  },
+  {
+    "term": "buchen;to book",
+    "encountered": 1
+  },
+  {
+    "term": "der Umzug;move",
+    "encountered": 1
+  },
+  {
+    "term": "auf etw. hoffen;to hope for sth.",
+    "encountered": 1
+  },
+  {
+    "term": "das Wortspiel;play on words",
+    "encountered": 1
+  },
+  {
+    "term": "sich verabschieden;to say goodbye",
+    "encountered": 1
+  },
+  {
+    "term": "wach sein;to be awake",
+    "encountered": 1
+  },
+  {
+    "term": "etw. erledigen;to get sth. done",
+    "encountered": 1
+  },
+  {
+    "term": "ölen;to oil",
+    "encountered": 1
+  },
+  {
+    "term": "das Holz;wood",
+    "encountered": 1
+  },
+  {
+    "term": "die Schicht;layer",
+    "encountered": 1
+  },
+  {
+    "term": "auskippen;to spill",
+    "encountered": 1
+  },
+  {
+    "term": "einziehen;to soak in",
+    "encountered": 1
+  },
+  {
+    "term": "schlafen;to sleep",
+    "encountered": 1
+  },
+  {
+    "term": "schlummern (Taste);snooze (button)",
+    "encountered": 1
+  },
+  {
+    "term": "drücken;to press",
+    "encountered": 1
+  },
+  {
+    "term": "früh;early",
+    "encountered": 1
+  },
+  {
+    "term": "aufstehen;to get up",
+    "encountered": 1
+  },
+  {
+    "term": "frühstücken;to eat breakfast",
+    "encountered": 1
+  },
+  {
+    "term": "die Stimmung;mood",
+    "encountered": 1
+  },
+  {
+    "term": "versuchen;to try",
+    "encountered": 1
+  },
+  {
+    "term": "lachen;to laugh",
+    "encountered": 1
+  },
+  {
+    "term": "rätseln;to puzzle",
+    "encountered": 1
+  },
+  {
+    "term": "aussprechen;to pronounce",
+    "encountered": 1
+  },
+  {
+    "term": "die Schulbildung;education",
+    "encountered": 1
+  },
+  {
+    "term": "etw. herausholen;to get sth. out",
+    "encountered": 1
+  },
+  {
+    "term": "abonnieren;to subscribe",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. bitten;to ask sb.",
+    "encountered": 1
+  },
+  {
+    "term": "familiär;family",
+    "encountered": 1
+  },
+  {
+    "term": "die Beziehung;relationship",
+    "encountered": 1
+  },
+  {
+    "term": "aufschreiben;to write down",
+    "encountered": 1
+  },
+  {
+    "term": "der Ehemann;husband",
+    "encountered": 1
+  },
+  {
+    "term": "die Ehefrau;wife",
+    "encountered": 1
+  },
+  {
+    "term": "vergehen;to go by",
+    "encountered": 1
+  },
+  {
+    "term": "zusammenleben;to live together",
+    "encountered": 1
+  },
+  {
+    "term": "das Verwandtschaftsverhältnis;relationship",
+    "encountered": 1
+  },
+  {
+    "term": "der Durchschnitt;average",
+    "encountered": 1
+  },
+  {
+    "term": "reisen;to travel",
+    "encountered": 1
+  },
+  {
+    "term": "jdm. auffallen;to notice",
+    "encountered": 1
+  },
+  {
+    "term": "der Zuhörer;listener",
+    "encountered": 1
+  },
+  {
+    "term": "diskutieren;to discuss",
+    "encountered": 1
+  },
+  {
+    "term": "das Thema;topic",
+    "encountered": 1
+  },
+  {
+    "term": "ausziehen;to move out",
+    "encountered": 1
+  },
+  {
+    "term": "wahrnehmen;to perceive",
+    "encountered": 1
+  },
+  {
+    "term": "heiraten;to get married",
+    "encountered": 1
+  },
+  {
+    "term": "jdm. einfallen;to cross sb.'s mind",
+    "encountered": 1
+  },
+  {
+    "term": "die Karte;map",
+    "encountered": 1
+  },
+  {
+    "term": "etw. einzeichnen;to mark sth.",
+    "encountered": 1
+  },
+  {
+    "term": "raten;to guess",
+    "encountered": 1
+  },
+  {
+    "term": "der Schnitt;average",
+    "encountered": 1
+  },
+  {
+    "term": "von etw. träumen;to dream of sth.",
+    "encountered": 1
+  },
+  {
+    "term": "weglaufen;to run away",
+    "encountered": 1
+  },
+  {
+    "term": "unabhängig;independent",
+    "encountered": 1
+  },
+  {
+    "term": "die Wohngemeinschaft (WG);shared apartment",
+    "encountered": 1
+  },
+  {
+    "term": "die Einkäufe machen;to do the shopping",
+    "encountered": 1
+  },
+  {
+    "term": "etw. erörtern;to discuss sth.",
+    "encountered": 1
+  },
+  {
+    "term": "etw. anschließen;to add sth.",
+    "encountered": 1
+  },
+  {
+    "term": "etw. gemeinsam haben;to have sth. in common",
+    "encountered": 1
+  },
+  {
+    "term": "sich etw. ausmalen;to imagine sth.",
+    "encountered": 1
+  },
+  {
+    "term": "die Höhle;cave",
+    "encountered": 1
+  },
+  {
+    "term": "scheitern;to fail",
+    "encountered": 1
+  },
+  {
+    "term": "einbrechen;to break through",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. einholen;to catch up with sb.",
+    "encountered": 1
+  },
+  {
+    "term": "etw. ausmachen;to agree on sth.",
+    "encountered": 1
+  },
+  {
+    "term": "von etw. träumen;to dream of sth.",
+    "encountered": 1
+  },
+  {
+    "term": "die Eltern;parents",
+    "encountered": 1
+  },
+  {
+    "term": "die Freiheit;freedom",
+    "encountered": 1
+  },
+  {
+    "term": "volljährig;of age",
+    "encountered": 1
+  },
+  {
+    "term": "das Verhältnis;relationship",
+    "encountered": 1
+  },
+  {
+    "term": "eine Entscheidung treffen;to make a decision",
+    "encountered": 1
+  },
+  {
+    "term": "Rücksicht nehmen;to show consideration",
+    "encountered": 1
+  },
+  {
+    "term": "sich etw. wünschen;to wish for sth.",
+    "encountered": 1
+  },
+  {
+    "term": "der Wunsch;wish",
+    "encountered": 1
+  },
+  {
+    "term": "äußern;to express",
+    "encountered": 1
+  },
+  {
+    "term": "in Frage kommen;to consider",
+    "encountered": 1
+  },
+  {
+    "term": "über etw. nachdenken;to think about sth.",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. drängen;to push sb.",
+    "encountered": 1
+  },
+  {
+    "term": "sich ändern;to change",
+    "encountered": 1
+  },
+  {
+    "term": "der Einfluss;influence",
+    "encountered": 1
+  },
+  {
+    "term": "die Bindung;bond",
+    "encountered": 1
+  },
+  {
+    "term": "die Mutter;mother",
+    "encountered": 1
+  },
+  {
+    "term": "bei rumkommen (ugs.);to come out (colloq.)",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. angucken;to look at sb.",
+    "encountered": 1
+  },
+  {
+    "term": "der Austauschschüler;exchange student",
+    "encountered": 1
+  },
+  {
+    "term": "die Erfahrung;experience",
+    "encountered": 1
+  },
+  {
+    "term": "Kontakt haben;to be in contact",
+    "encountered": 1
+  },
+  {
+    "term": "etw. ernst nehmen;to take sth. seriously",
+    "encountered": 1
+  },
+  {
+    "term": "heißen;to mean",
+    "encountered": 1
+  },
+  {
+    "term": "sich an etw. gewöhnen;to get used to sth.",
+    "encountered": 1
+  },
+  {
+    "term": "undenkbar;inconceivable",
+    "encountered": 1
+  },
+  {
+    "term": "Weihnachten;Christmas",
+    "encountered": 1
+  },
+  {
+    "term": "sich melden;to get in touch",
+    "encountered": 1
+  },
+  {
+    "term": "der Geburtstag;birthday",
+    "encountered": 1
+  },
+  {
+    "term": "berichten;to report",
+    "encountered": 1
+  },
+  {
+    "term": "etw. mitbekommen (ugs.);to hear the latest news (colloq.)",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. vermissen;to miss sb.",
+    "encountered": 1
+  },
+  {
+    "term": "dazugehören;to be part of",
+    "encountered": 1
+  },
+  {
+    "term": "etw. erwarten;to expect sth.",
+    "encountered": 1
+  },
+  {
+    "term": "zusammenwohnen;to live together",
+    "encountered": 1
+  },
+  {
+    "term": "zusammenziehen;to move in together",
+    "encountered": 1
+  },
+  {
+    "term": "das Paar;couple",
+    "encountered": 1
+  },
+  {
+    "term": "zusammen sein;to be together",
+    "encountered": 1
+  },
+  {
+    "term": "getrennt;separately",
+    "encountered": 1
+  },
+  {
+    "term": "sich etw. leisten können;to afford sth.",
+    "encountered": 1
+  },
+  {
+    "term": "die Wohnung;apartment",
+    "encountered": 1
+  },
+  {
+    "term": "etw. nehmen;to take sth.",
+    "encountered": 1
+  },
+  {
+    "term": "etw. generalisieren;to generalize sth.",
+    "encountered": 1
+  },
+  {
+    "term": "sich verstehen;to get along",
+    "encountered": 1
+  },
+  {
+    "term": "ausprobieren;to try",
+    "encountered": 1
+  },
+  {
+    "term": "sich gut verstehen;to get along well",
+    "encountered": 1
+  },
+  {
+    "term": "die Entscheidung;decision",
+    "encountered": 1
+  },
+  {
+    "term": "der Schritt;step",
+    "encountered": 1
+  },
+  {
+    "term": "etw. verallgemeinern;to generalize sth.",
+    "encountered": 1
+  },
+  {
+    "term": "beschreiben;to describe",
+    "encountered": 1
+  },
+  {
+    "term": "alleine wohnen;to live alone",
+    "encountered": 1
+  },
+  {
+    "term": "die Arbeit;paper",
+    "encountered": 1
+  },
+  {
+    "term": "sich mit etw. befassen;to occupy oneself with sth.",
+    "encountered": 1
+  },
+  {
+    "term": "das Elternhaus;parents' house",
+    "encountered": 1
+  },
+  {
+    "term": "selbstbestimmt;self-determined",
+    "encountered": 1
+  },
+  {
+    "term": "ein ... Leben führen;to live a ... life",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. kennenlernen;to get to know sb.",
+    "encountered": 1
+  },
+  {
+    "term": "jdm. gefallen;to like sb.",
+    "encountered": 1
+  },
+  {
+    "term": "vorstellen;to imagine",
+    "encountered": 1
+  },
+  {
+    "term": "die Wunschvorstellung;dream",
+    "encountered": 1
+  },
+  {
+    "term": "ändern;to change",
+    "encountered": 1
+  },
+  {
+    "term": "der Grund;reason",
+    "encountered": 1
+  },
+  {
+    "term": "standesamtlich;civil",
+    "encountered": 1
+  },
+  {
+    "term": "kirchlich;church",
+    "encountered": 1
+  },
+  {
+    "term": "die Steuern;taxes",
+    "encountered": 1
+  },
+  {
+    "term": "zahlen;to pay",
+    "encountered": 1
+  },
+  {
+    "term": "miterleben;to experience",
+    "encountered": 1
+  },
+  {
+    "term": "gleichgeschlechtlich;same-sex",
+    "encountered": 1
+  },
+  {
+    "term": "erschreckend;alarming",
+    "encountered": 1
+  },
+  {
+    "term": "erwarten;to expect",
+    "encountered": 1
+  },
+  {
+    "term": "an etw. denken;to think about sth.",
+    "encountered": 1
+  },
+  {
+    "term": "in welchem Alter;at what age",
+    "encountered": 1
+  },
+  {
+    "term": "unterschiedlich;different",
+    "encountered": 1
+  },
+  {
+    "term": "zuhören;to listen",
+    "encountered": 1
+  },
+  {
+    "term": "teuer;expensive",
+    "encountered": 1
+  },
+  {
+    "term": "um etw. bitten;to ask for sth.",
+    "encountered": 1
+  },
+  {
+    "term": "der Presseausweis;press card",
+    "encountered": 1
+  },
+  {
+    "term": "die Anzahl;number",
+    "encountered": 1
+  },
+  {
+    "term": "die Eheschließung;marriage",
+    "encountered": 1
+  },
+  {
+    "term": "von etw. ausgehen;to assume sth.",
+    "encountered": 1
+  },
+  {
+    "term": "die Bevölkerung;population",
+    "encountered": 1
+  },
+  {
+    "term": "wachsen;to grow",
+    "encountered": 1
+  },
+  {
+    "term": "zurückgehen;to decrease",
+    "encountered": 1
+  },
+  {
+    "term": "romantisch;romantic",
+    "encountered": 1
+  },
+  {
+    "term": "die Vorstellung;idea",
+    "encountered": 1
+  },
+  {
+    "term": "sich beeinflussen lassen;to be influenced",
+    "encountered": 1
+  },
+  {
+    "term": "das Umfeld;environment",
+    "encountered": 1
+  },
+  {
+    "term": "von etw. abhängen;to depend on sth.",
+    "encountered": 1
+  },
+  {
+    "term": "geprägt sein;to be marked",
+    "encountered": 1
+  },
+  {
+    "term": "die Hochzeit;wedding",
+    "encountered": 1
+  },
+  {
+    "term": "der Mann;husband",
+    "encountered": 1
+  },
+  {
+    "term": "die Frau;wife",
+    "encountered": 1
+  },
+  {
+    "term": "der Freund;boyfriend",
+    "encountered": 1
+  },
+  {
+    "term": "jdm. etw. ausmachen;to bother sb.",
+    "encountered": 1
+  },
+  {
+    "term": "etw. entsprechen;to correspond to sth.",
+    "encountered": 1
+  },
+  {
+    "term": "die Tatsache;fact",
+    "encountered": 1
+  },
+  {
+    "term": "sich Gedanken um etw. machen;to think about sth.",
+    "encountered": 1
+  },
+  {
+    "term": "eine Rolle spielen;to play a role",
+    "encountered": 1
+  },
+  {
+    "term": "mit etw. zu tun haben;to have to do with sth.",
+    "encountered": 1
+  },
+  {
+    "term": "verdienen;to earn",
+    "encountered": 1
+  },
+  {
+    "term": "ökonomisch;economic",
+    "encountered": 1
+  },
+  {
+    "term": "die Gegebenheiten;conditions",
+    "encountered": 1
+  },
+  {
+    "term": "teilen;to share",
+    "encountered": 1
+  },
+  {
+    "term": "die Miete;rent",
+    "encountered": 1
+  },
+  {
+    "term": "etw. übernehmen;to take over sth.",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. kennenlernen;to meet sb.",
+    "encountered": 1
+  },
+  {
+    "term": "die Erwartungshaltung;expectation",
+    "encountered": 1
+  },
+  {
+    "term": "anbieten;to offer",
+    "encountered": 1
+  },
+  {
+    "term": "mit etw. zusammenhängen;to have to do with sth.",
+    "encountered": 1
+  },
+  {
+    "term": "das Geschlecht;gender",
+    "encountered": 1
+  },
+  {
+    "term": "schauen;to look",
+    "encountered": 1
+  },
+  {
+    "term": "die Meinung;opinion",
+    "encountered": 1
+  },
+  {
+    "term": "sich entwickeln;to develop",
+    "encountered": 1
+  },
+  {
+    "term": "jdm. zustimmen;to agree with sb.",
+    "encountered": 1
+  },
+  {
+    "term": "verheiratet;married",
+    "encountered": 1
+  },
+  {
+    "term": "zusammenlegen;to combine",
+    "encountered": 1
+  },
+  {
+    "term": "das Konto;account",
+    "encountered": 1
+  },
+  {
+    "term": "reinkommen;to come in",
+    "encountered": 1
+  },
+  {
+    "term": "behandeln;to treat",
+    "encountered": 1
+  },
+  {
+    "term": "gemeinsam;shared",
+    "encountered": 1
+  },
+  {
+    "term": "einzahlen;to pay in",
+    "encountered": 1
+  },
+  {
+    "term": "unterstützen;to support",
+    "encountered": 1
+  },
+  {
+    "term": "das Studium;studies",
+    "encountered": 1
+  },
+  {
+    "term": "sich auf etw. konzentrieren;to focus on sth.",
+    "encountered": 1
+  },
+  {
+    "term": "das Taschengeld;pocket money",
+    "encountered": 1
+  },
+  {
+    "term": "einkaufen;to go shopping",
+    "encountered": 1
+  },
+  {
+    "term": "eingreifen;to intervene",
+    "encountered": 1
+  },
+  {
+    "term": "das BAföG;student grant",
+    "encountered": 1
+  },
+  {
+    "term": "der Kredit;credit",
+    "encountered": 1
+  },
+  {
+    "term": "etw. zurückzahlen;to pay sth. back",
+    "encountered": 1
+  },
+  {
+    "term": "arbeiten;to work",
+    "encountered": 1
+  },
+  {
+    "term": "weiterlaufen;to continue",
+    "encountered": 1
+  },
+  {
+    "term": "bekommen;to receive",
+    "encountered": 1
+  },
+  {
+    "term": "vorbereiten;to prepare",
+    "encountered": 1
+  },
+  {
+    "term": "jdm. etw. verübeln;to hold sth. against sb.",
+    "encountered": 1
+  },
+  {
+    "term": "etw. annehmen;to accept sth.",
+    "encountered": 1
+  },
+  {
+    "term": "segeln (ugs.);to sail (colloq.)",
+    "encountered": 1
+  },
+  {
+    "term": "jdn. konfrontieren;to confront sb.",
+    "encountered": 1
+  },
+  {
+    "term": "Zeit haben;to have time",
+    "encountered": 1
+  },
+  {
+    "term": "die Freizeit;free time",
+    "encountered": 1
+  },
+  {
+    "term": "passen;to fit",
+    "encountered": 1
+  },
+  {
+    "term": "etw. anbringen;to mention sth.",
+    "encountered": 1
+  },
+  {
+    "term": "umsetzen;to realize",
+    "encountered": 1
+  },
+  {
+    "term": "konsumieren;to consume",
+    "encountered": 1
+  },
+  {
+    "term": "kaufen;to buy",
+    "encountered": 1
+  },
+  {
+    "term": "etw. verschenken;to give sth. away",
+    "encountered": 1
+  },
+  {
+    "term": "der Adventskalender;Advent calendar",
+    "encountered": 1
+  },
+  {
+    "term": "die Kindheit;childhood",
+    "encountered": 1
+  },
+  {
+    "term": "die Tür;door",
+    "encountered": 1
+  },
+  {
+    "term": "etw. hineintun;to put sth. in",
+    "encountered": 1
+  },
+  {
+    "term": "aufmachen;to open",
+    "encountered": 1
+  },
+  {
+    "term": "feiern;to celebrate",
+    "encountered": 1
+  },
+  {
+    "term": "das Brauchtum;tradition",
+    "encountered": 1
+  },
+  {
+    "term": "das Bild;picture",
+    "encountered": 1
+  },
+  {
+    "term": "die Schokolade;chocolate",
+    "encountered": 1
+  },
+  {
+    "term": "persönlich gemacht;made personally",
+    "encountered": 1
+  },
+  {
+    "term": "das Säckchen;bag",
+    "encountered": 1
+  },
+  {
+    "term": "das Geschenk;gift",
+    "encountered": 1
+  },
+  {
+    "term": "die Süßigkeit;candy",
+    "encountered": 1
+  },
+  {
+    "term": "nennen;to name",
+    "encountered": 1
+  },
+  {
+    "term": "aufwachen;to wake up",
+    "encountered": 1
+  },
+  {
+    "term": "der Heißluftballon;hot-air balloon",
+    "encountered": 1
+  },
+  {
+    "term": "christlich;Christian",
+    "encountered": 1
+  },
+  {
+    "term": "jdm. eine Freude machen;to make sb. happy",
+    "encountered": 1
+  },
+  {
+    "term": "klingeln;to ring",
+    "encountered": 1
+  },
+  {
+    "term": "der Zustand;state",
+    "encountered": 1
+  },
+  {
+    "term": "das Paket;package",
+    "encountered": 1
+  },
+  {
+    "term": "jdm. etw. überreichen;to hand over sth. to sb.",
+    "encountered": 1
+  },
+  {
+    "term": "der Absender;sender",
+    "encountered": 1
   },
   {
     "term": "bestellen;to order",
-    "encountered": 8
+    "encountered": 1
+  },
+  {
+    "term": "selbst gemacht;self-made",
+    "encountered": 1
+  },
+  {
+    "term": "machen;to make",
+    "encountered": 1
+  },
+  {
+    "term": "die Vermutung;guess",
+    "encountered": 1
+  },
+  {
+    "term": "das Einzige;the only thing",
+    "encountered": 1
+  },
+  {
+    "term": "jdm. etw. einfallen;to think of sth.",
+    "encountered": 1
+  },
+  {
+    "term": "die Adresse;address",
+    "encountered": 1
+  },
+  {
+    "term": "umziehen;to move",
+    "encountered": 1
+  },
+  {
+    "term": "das Konzept;concept",
+    "encountered": 1
+  },
+  {
+    "term": "das Wichteln;Secret Santa",
+    "encountered": 1
+  },
+  {
+    "term": "vorstellen;to present",
+    "encountered": 1
+  },
+  {
+    "term": "schreiben;to write",
+    "encountered": 2
+  },
+  {
+    "term": "kennen;to know",
+    "encountered": 2
+  },
+  {
+    "term": "über etw. reden;to talk about sth.",
+    "encountered": 2
+  },
+  {
+    "term": "vergessen;to forget",
+    "encountered": 2
+  },
+  {
+    "term": "die Freundin;girlfriend",
+    "encountered": 2
+  },
+  {
+    "term": "der Haushalt;household",
+    "encountered": 2
+  },
+  {
+    "term": "fragen;to ask",
+    "encountered": 2
+  },
+  {
+    "term": "wohnen;to live",
+    "encountered": 2
+  },
+  {
+    "term": "anfangen;to start",
+    "encountered": 2
+  },
+  {
+    "term": "zurückkommen;to come back",
+    "encountered": 2
+  },
+  {
+    "term": "jdm. etw. beibringen;to teach sb. sth.",
+    "encountered": 2
+  },
+  {
+    "term": "das Geld;money",
+    "encountered": 2
+  },
+  {
+    "term": "schätzen;to guess",
+    "encountered": 2
+  },
+  {
+    "term": "die Zahl;number",
+    "encountered": 2
+  },
+  {
+    "term": "bezahlen;to pay",
+    "encountered": 2
+  },
+  {
+    "term": "die Geschichte;story",
+    "encountered": 2
+  },
+  {
+    "term": "bedeuten;to mean",
+    "encountered": 2
+  },
+  {
+    "term": "die Empfehlung;recommendation",
+    "encountered": 2
+  },
+  {
+    "term": "anrufen;to call",
+    "encountered": 2
+  },
+  {
+    "term": "sich um etw. kümmern;to take care of sth.",
+    "encountered": 2
+  },
+  {
+    "term": "benutzen;to use",
+    "encountered": 2
+  },
+  {
+    "term": "reichen;to be enough",
+    "encountered": 2
+  },
+  {
+    "term": "sich erinnern;to remember",
+    "encountered": 2
+  },
+  {
+    "term": "an etw. denken;to think of sth.",
+    "encountered": 2
+  },
+  {
+    "term": "jdm. etw. schicken;to send sb. sth.",
+    "encountered": 2
+  },
+  {
+    "term": "erklären;to explain",
+    "encountered": 2
+  },
+  {
+    "term": "heißen;to be called",
+    "encountered": 2
+  },
+  {
+    "term": "betreffen;to concern",
+    "encountered": 2
+  },
+  {
+    "term": "bleiben;to stay",
+    "encountered": 2
   }
 ]

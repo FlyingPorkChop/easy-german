@@ -51,4 +51,27 @@ function storeReadInLinesAsItems(readInItems, lines) {
     }
 }
 
-module.exports = { getRegex, removeReplacePaternFromFile, isAlreadySaved, getItemWithTerm, storeReadInLinesAsItems };
+function removeItemsWithEmptyTerms(Items) {
+    for(let i = 0; i < Items.length; i++) {
+        let item = Items[i];
+        if(item.term == "") {
+            Items.splice(i, 1);
+        }
+    }
+}
+
+module.exports = { getRegex, removeReplacePaternFromFile, isAlreadySaved, getItemWithTerm, storeReadInLinesAsItems, removeItemsWithEmptyTerms };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
